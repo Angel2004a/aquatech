@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" width="760" height="375" viewBox="0, 0, 760, 375">
+  <defs>
+    <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="635.628" y1="41.655" x2="325.372" y2="552.345">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#13CFFF" stop-opacity="0.25"/>
+    </linearGradient>
+    <clipPath id="Clip_1">
+      <path d="M874,0 L884,0 L884,594 L874,594 z"/>
+    </clipPath>
+    <linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="616.703" y1="32.424" x2="295.297" y2="561.576">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#13CFFF" stop-opacity="0.25"/>
+    </linearGradient>
+    <clipPath id="Clip_2">
+      <path d="M864,0 L874,0 L874,594 L864,594 z"/>
+    </clipPath>
+    <linearGradient id="Gradient_3" gradientUnits="userSpaceOnUse" x1="597.777" y1="23.192" x2="265.223" y2="570.808">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#13CFFF" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1">
+    <g id="Layer_1">
+      <g clip-path="url(#Clip_1)" opacity="0.051">
+        <path d="M77,60.994 C77,55.622 81.244,51.21 86.612,51.002 L873.611,20.404 C879.282,20.183 884,24.721 884,30.396 L884,563.604 C884,569.279 879.282,573.817 873.612,573.596 L86.612,542.998 C81.244,542.79 77,538.378 77,533.006 L77,60.994 z" fill="url(#Gradient_1)"/>
+      </g>
+      <g clip-path="url(#Clip_2)" opacity="0.099">
+        <path d="M38,52.127 C38,46.755 42.244,42.343 47.611,42.134 L863.611,10.404 C869.282,10.183 874,14.721 874,20.396 L874,573.604 C874,579.279 869.282,583.817 863.611,583.596 L47.611,551.866 C42.244,551.657 38,547.245 38,541.873 L38,52.127 z" fill="url(#Gradient_2)"/>
+      </g>
+      <!--<path d="M-1,43.259 C-1,37.888 3.244,33.476 8.611,33.267 L853.611,0.404 C859.282,0.183 864,4.721 864,10.396 L864,583.604 C864,589.279 859.282,593.817 853.611,593.596 L8.611,560.733 C3.244,560.524 -1,556.112 -1,550.741 L-1,43.259 z" fill="url(#Gradient_3)" opacity="0.154"/>-->
+    </g>
+  </g>
+</svg>
